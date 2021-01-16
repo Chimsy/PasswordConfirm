@@ -153,9 +153,9 @@
             messages: {
                 password: {
                     pwcheck: "Password is not strong enough",
-                    checklower: "Need atleast 1 lowercase alphabet",
-                    checkupper: "Need atleast 1 uppercase alphabet",
-                    checkdigit: "Need atleast 1 digit"
+                    checklower: "Need at least 1 lowercase alphabet",
+                    checkupper: "Need at least 1 uppercase alphabet",
+                    checkdigit: "Need at least 1 digit"
                 }
             },
             highlight: function (element) {
